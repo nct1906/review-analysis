@@ -1,5 +1,5 @@
 # Use Python to Analyze Online Reviews
-## Goal: Identify West Elm customers painpoints by analyzing online reviews to find most commonly used words in 1, 2, 3 star ratings
+## Goal: Identify West Elm customers painpoints by analyzing online reviews to find most commonly used words in 1 & 2 star ratings
 ## Process:
 1. Scrape online reviews from ConsumerAffairs using Octoparse
 2. Use Natural Language Processing to Preprocess and Clean Reviews (Tokenize sentences, Remove stop words, Normalize words)
