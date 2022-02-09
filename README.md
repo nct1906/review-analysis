@@ -1,6 +1,6 @@
 # Use Python to Analyze Online Reviews
 ## Goal: Identify West Elm customers painpoints by analyzing 1 & 2 star reviews 
-Our CCIP team's client is West Elm, and we're trying to identify issues with the company. There are online articles that address West Elm's issues with late deliveries. However, to substantiate these claims and decide whether West Elm's delivery is truly a problem to customer, I decided to use Python to find the most discussed topics in negative reviews, and compare the results with West Elm's competitors (Ikea and Wayfair).
+Our CCIP team's client is West Elm, and we're trying to identify issues with the company. There are online articles that address West Elm's issues with late deliveries. However, to substantiate these claims and decide whether West Elm's delivery is truly a problem to customer, I decided to use Python to find the most discussed topics in negative online reviews, and compare the results with West Elm's competitors (Ikea and Wayfair).
 ## Process:
 1. Scrape online reviews from ConsumerAffairs using Octoparse
 2. Use Natural Language Processing to Preprocess and Clean Reviews (Tokenize sentences, Remove stop words, Normalize words)
