@@ -1,4 +1,4 @@
-# UAnalyze Online Reviews to Identify Pain points
+# Analyze Online Reviews to Identify Pain points
 ## Goal: Identify West Elm customers pain points by analyzing 1 & 2 star reviews 
 Our CCIP team's client is West Elm, and we're trying to identify issues with the company. There are online articles that address West Elm's issues with late deliveries. However, to substantiate these claims and decide whether West Elm's delivery is truly a problem to customer, I decided to use Python to find the most discussed topics in negative online reviews, and compare the results with West Elm's competitors (Ikea and Wayfair).
 ## Process:
